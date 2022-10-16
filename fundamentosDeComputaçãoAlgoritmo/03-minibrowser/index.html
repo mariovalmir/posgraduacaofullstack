@@ -1,0 +1,56 @@
+<!--main>
+    <header>
+        <div class="close-area"></div>
+        <input placeholder="https://..." value="https://mariosouto.com" />
+    </header>
+    <iframe src="https://mariosouto.com"></iframe>
+</main-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini browser experimental</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    //var aba1Titulo = 'Título aba1';
+    //var aba2Titulo = 'Título aba2';
+    //var aba1 = 'https://web.whatsapp.com/';
+    //var aba2 = 'file:///C:/desenv/workspace_pos/Fundamentos%20De%20Computa%C3%A7%C3%A3o%20e%20Algoritmo/03-minibrowser/index.html';
+
+    //Objetos representam conjunto atributos
+    var aba1 = {
+        titulo: 'titulo 01',
+        url: 'https://web.whatsapp.com/'
+    };
+
+    var aba2 = {
+        titulo: 'titulo 02',
+        url: 'file:///C:/desenv/workspace_pos/Fundamentos%20De%20Computa%C3%A7%C3%A3o%20e%20Algoritmo/03-minibrowser/index.html'
+    };
+
+    // Arrays lista de coisas
+    var abas = [
+        aba1,
+        aba2
+    ]
+
+    abas.forEach(aba => {
+        var valoAtualDoHtml = document.body.innerHTML;
+        document.body.innerHTML = valoAtualDoHtml + `<a href="${aba.url}">${aba.titulo}</a>`;
+    });
+
+    // O que tem numa aba do navegador
+    // titulo
+    // url
+    // pagina de fato (html, css, javascript)
+</script>
+
+<link rel="stylesheet" href="./styles.css">
