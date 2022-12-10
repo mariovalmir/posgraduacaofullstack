@@ -1,0 +1,11 @@
+Aspectos essenciais da Arquitetura de Nuvem
+
+Otimização de Custos: Uma carga de trabalho com custo otimizado utiliza integralmente todos os recursos, alcança um resultado ao menor ponto de preço possível e atende a seus requisitos funcionais.
+
+Excelência Operacional: O pilar de excelência operacional inclui como sua organização apoia seus objetivos empresariais e sua capacidade de executar cargas de trabalho com eficácia, de obter insights sobre operações e de aprimorar continuamente processos e procedimentos de apoio para oferecer valor empresarial.
+
+Eficiência de Performance: O pilar de eficiência de performance tem como foco o uso eficiente de recursos de computação para atender a requisitos e anter a eficiência conforme as demandas mudam e as tecnologias evoluem.
+
+Confiabilidade: O pilar Confiabilidade abrange a capacidade de uma carga de trabalho de executar a função pretendida correta e consistentemente quando esperado. Isso inclui a capacidade de operar e testar a carga de trabalho durante o ciclo de vida total dela.
+
+Segurança: O pilar Segurança descreve como aproveitar as tecnologias de nuvem para proteger dados, sistemas e ativos de uma maneira que possa melhorar sua condição de segurança.

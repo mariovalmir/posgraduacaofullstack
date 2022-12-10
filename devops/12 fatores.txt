@@ -1,0 +1,12 @@
+1) Base de código: cada aplicação possui uma base de código única e centralizada, de forma que todos os deploys são reflexo da base de código;
+ 2) Dependências: declarar as dependências da aplicação de forma explícita com gerenciadores de pacote;
+ 3) Configurações: armazenamento de configurações no ambiente. Esse recurso garante portabilidade, além de que não haverá problemas no transporte dos arquivos de configuração;
+ 4) Backing services: tratar os serviços como recursos;
+ 5) Construa, lance e execute: separar os estágios de build e release dos projetos. Assim, a construção do processo é muito mais prática e fácil;
+ 6) Processos: executar a aplicação como um ou mais processos que não armazenam estados. Há processos “stateless”, que não armazenam nenhum dado, e processos “stateful”, em que são armazenados alguns dados. Os processos, portanto, consultam o serviço de apoio ao invés de criar Fatores 11réplicas, duplicando o armazenamento do arquivo;
+ 7) Vínculo de portas: utilizar o chamado “port binding” para expor serviços;
+ 8) Concorrência: escalar através do processo do modelo. Há duas formas de escalabilidade: a vertical, quando aumentamos a quantidade de hardware em uso pela aplicação, e a horizontal, quando criamos réplicas da aplicação a fim de garantir o processamento das requisições;
+ 9) Descartabilidade: processos com rápida inicialização e encerramento gracioso;
+ 10) Paridade entre desenvolvimento e produção: manter o desenvolvimento, a homologação e a produção o mais similares possível. Assim, temos a confiança de que o ambiente em que rodamos no desenvolvimento é similar à produção;
+ 11) Logs: devem ser tratados como eventos. O Log é o registro dos eventos de uma aplicação. Colocado em um ambiente de centralização para consulta, maior é a sua eficiência;
+ 12) Processos administrativos: execução de gestão e administração do software em processos pontuais.

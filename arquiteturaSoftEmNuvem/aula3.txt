@@ -1,0 +1,11 @@
+Modelos de serviço  
+SaaS – Software como Serviço:
+Aplicações e serviços disponibilizados aos usuários pela Internet usando uma infraestrutura escalável  
+
+PaaS – Plataforma como Serviço:
+Ambiente com suporte para desenvolvimento de aplicações na nuvem 
+Gerência baseada nas aplicações e não nos recursos computacionais  
+
+IaaS – Infraestrutura como Serviço:
+Provisionamento de recursos computacionais básicos 
+Usuário é responsável por instalar e gerenciar seus sistemas nos recursos alocados

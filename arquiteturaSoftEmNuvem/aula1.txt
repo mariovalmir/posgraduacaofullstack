@@ -1,0 +1,11 @@
+O que é o Datacenter? 
+Um datacenter, em resumo, é um espaço dedicado ou um prédio que abriga os equipamentos de TI e servidores de uma organização. A empresa pode orientar seus recursos nesse datacenter para operar seus negócios ou ceder esses recursos para o público como um serviço.(VERTIV).
+
+O que é a computação em nuvem ?  
+É a entrega sob demanda de poder computacional, armazenamento de dados, aplicativos e outros recursos de TI por uma plataforma de serviços na nuvem usando a internet com o modelo de definição de preço pay as you go. (Amazon AWS)
+
+O que são Containers ? 
+O container é um modelo de virtualização, na nuvem, em nível de sistema operacional, com o objetivo de implantar e executar aplicativos distribuídos. Nesse modelo, são acionados vários sistemas isolados (contêineres) em um único host, acessando um único kernel.  
+
+TOGAF
+• Possui o Architecture Development Method (ADM) que é um passo-a-passo de como se modelar e implementar uma arquitetura empresarial. • Possui uma linguagem de modelagem – ArchiMate • Usado como framework base de várias soluções proprietárias, como Oracle Enterprise Architecture Framework, SAP Enterprise Architecture Framework; • Solução amplamente adotada por ser aberta, genérica e definida pelo Open Group; • Open Group é um consórcio global formado por 400 organizações que busca atingir objetivos de negócio por meio de padrões de TI.
