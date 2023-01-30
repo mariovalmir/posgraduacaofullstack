@@ -1,0 +1,24 @@
+Desenvolvimento Ágil
+
+Princípios
+• Satisfazer o cliente, entregando o software em tempo hábil e continuamente
+• Aceitar as mudanças de requisitos, em qualquer fase do projeto
+• Entregar software na menor escala de tempo possível
+• Equipe de desenvolvimento e cliente são do mesmo time
+• Construir projetos com indivíduos motivados e comprometidos com o resultado
+
+
+
+Conceito 3C
+• Cartão: informação limitada, opera como um lembrete
+• Conversação: quem nos ajuda a amplificar o
+conhecimento e desenvolver exemplos sobre o que estamos aprendendo?
+• Confirmação: conforme conversamos com clientes conseguimos comprovar os atendimentos, através de validação com o mundo real.
+
+
+Pair programming é uma maneira de fazer codereview!!!!!
+Code review fica a cargo de quem é lider técnico, fazendo sugestões e melhorias do código;
+
+“Profissionais passam 40% da sua jornada semanal lidando com problemas de manutenção, como depuração e refatoração, além de correção de ‘código mal escrito’. Segundo a pesquisa, o impacto disso equivale a quase US$ 85 bilhões em custo de oportunidade perdido anualmente em todo o mundo, de acordo com os cálculos sobre o salário médio do desenvolvedor por país”
+Stripe, The Developer Coefficient (2018)
+
